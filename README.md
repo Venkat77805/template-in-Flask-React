@@ -1,11 +1,11 @@
- **template-in-Flask-React**
+**template-in-Flask-React**
 Project Introduction
-This project is part of the assessment for the Associate Software Engineer (Python/React) role at Better Software. It demonstrates my ability to build scalable, maintainable software using Flask and React, following solid engineering principles.
+It is a project for the assessment of the Associate Software Engineer (Python/React) position at Better Software. It shows my competency in developing scalable, maintainable software using React and Flask, adhering to good engineering principles.
 
 **Objective**
-Task 1: Build backend APIs to add, edit, and delete comments for a given task using proper CRUD principles.
+Task 1: Develop backend APIs to create, update, and delete comments for a specific task based on good CRUD principles.
 
-Task 2 (Bonus): Build a frontend interface to add, edit, and delete tasks using the existing CRUD APIs.
+Task 2 (Bonus): Create a frontend UI to add, edit, and delete tasks using the provided CRUD APIs.
 
 **Tech Stack**
 Backend: Flask, SQLAlchemy, Pytest
@@ -15,9 +15,9 @@ Frontend: React, Axios
 Database: SQLite (for local development)
 
 **Highlights**
-Modular code structure using Flask Blueprints
+Modular code organization with Flask Blueprints
 
-RESTful API design with proper error handling
+RESTful API design with error handling
 
 Automated tests for all comment-related endpoints
 
@@ -25,4 +25,4 @@ Clean React components for task management
 
 Clear separation of concerns between backend and frontend
 
-This project reflects my approach to writing clean, testable code and building full-stack applications with a strong foundation for future scalability
+This project demonstrates my style of writing tidy testable code and constructing full-stack applications with a solid groundwork for future scalability
